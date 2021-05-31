@@ -26,11 +26,11 @@ As variáveis contínuas utilizadas foram a proficiência atual, valor de pontua
 
 O modelo escolhido foi um Regressor Random Forest, pois além de apresentar melhor resultado que uma regressão linear e outros hiperparâmetros ajustáveis, também fornece uma relação clara de importância de features.
 
-R2 Score do Treino: $0.5682$
+R2 Score do Treino: 0.5682
 ![Previsão de proficiência (treino)](./graficos_pylot/reg_treino.png)
 
 
-R2 Score do Teste: $0.3978$
+R2 Score do Teste: 0.3978
 ![Previsão de proficiência (teste)](./graficos_pylot/reg_teste.png)
 
 ![Feature Importance](./graficos_pylot/feature_importance.png)
